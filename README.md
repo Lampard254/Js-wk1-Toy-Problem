@@ -4,7 +4,7 @@ This repository contains solutions to three toy problems in JavaScript.
 
 ## Author
 
-Lorenah M.
+Markdennis N.
 
 ## Challenge 1: Student Grade Generator
 
